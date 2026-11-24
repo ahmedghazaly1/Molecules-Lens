@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.DS_Store
+
+*.log
+.env
+.env.*
+!.env.example
+*.drawio
+*.xls
+*.xlsx
+*.xlsm
